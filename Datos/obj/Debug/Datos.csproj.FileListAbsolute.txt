@@ -1,0 +1,107 @@
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Datos\obj\Debug\Datos.pdb
+D:\IntegradorASPv3\IntegradorASP\Datos\bin\Debug\Datos.dll
+D:\IntegradorASPv3\IntegradorASP\Datos\bin\Debug\Datos.pdb
+D:\IntegradorASPv3\IntegradorASP\Datos\bin\Debug\Entidades.dll
+D:\IntegradorASPv3\IntegradorASP\Datos\bin\Debug\Entidades.pdb
+D:\IntegradorASPv3\IntegradorASP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\IntegradorASPv3\IntegradorASP\Datos\obj\Debug\Datos.dll
+D:\IntegradorASPv3\IntegradorASP\Datos\obj\Debug\Datos.pdb
+D:\IntegradorASP\Datos\bin\Debug\Datos.dll
+D:\IntegradorASP\Datos\bin\Debug\Datos.pdb
+D:\IntegradorASP\Datos\bin\Debug\Entidades.dll
+D:\IntegradorASP\Datos\bin\Debug\Entidades.pdb
+D:\IntegradorASP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\IntegradorASP\Datos\obj\Debug\Datos.dll
+D:\IntegradorASP\Datos\obj\Debug\Datos.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Datos\bin\Debug\Datos.dll
+D:\IntegreadorASP 3\IntegreadorASP\Datos\bin\Debug\Datos.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Datos\bin\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Datos\bin\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\IntegreadorASP 3\IntegreadorASP\Datos\obj\Debug\Datos.dll
+D:\IntegreadorASP 3\IntegreadorASP\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Datos\obj\Debug\Datos.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Datos.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Datos.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Entidades.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\obj\Debug\Datos.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Datos\obj\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\obj\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Datos\obj\Debug\Datos.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\bin\Debug\Datos.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\bin\Debug\Datos.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\bin\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\bin\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\obj\Debug\Datos.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Datos\obj\Debug\Datos.pdb
+C:\Users\Gabriel\Desktop\Integrador\Datos\bin\Debug\Datos.dll
+C:\Users\Gabriel\Desktop\Integrador\Datos\bin\Debug\Datos.pdb
+C:\Users\Gabriel\Desktop\Integrador\Datos\bin\Debug\Entidades.dll
+C:\Users\Gabriel\Desktop\Integrador\Datos\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\Desktop\Integrador\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Integrador\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Integrador\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Integrador\Datos\obj\Debug\Datos.dll
+C:\Users\Gabriel\Desktop\Integrador\Datos\obj\Debug\Datos.pdb

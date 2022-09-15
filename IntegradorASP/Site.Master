@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="IntegradorASP.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><%: Page.Title %> - Integrador ASP.NET</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <%-- Ejemplo: sobreescribimos el color de fondo de la clase well de Bootstrap--%>
+    <style>
+        .well {
+            background: #F0F0F0;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <%-- Barra de navegación--%>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <%-- Links lado izquierdo --%>
+                <div class="navbar-header">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <asp:HyperLink ID="HyperLinkInicio" runat="server" CssClass="navbar-brand" NavigateUrl="~/Default.aspx">Integrador ASP.NET</asp:HyperLink>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <asp:HyperLink ID="HyperLinkAdministracion" runat="server" CssClass="navbar-brand" NavigateUrl="~/Administracion/Default.aspx">Administración</asp:HyperLink>
+                        </li>
+                    </ul>
+                </div>
+                <%-- Links lado derecho --%>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <asp:HyperLink ID="HyperLinkAyuda" runat="server" CssClass="navbar-brand" NavigateUrl="~/Ayuda.aspx">Ayuda</asp:HyperLink></li>
+                        <li>
+                            <asp:LoginView runat="server" ViewStateMode="Disabled">
+                                <AnonymousTemplate>
+                                    <ul>
+                                        <%--  <li><a id="registerLink" runat="server" href="~/Account/Register">Registro</a></li>--%>
+                                        <li><a id="loginLink" runat="server" href="~/Account/Login.aspx" class="navbar-brand">Log in</a></li>
+                                    </ul>
+                                </AnonymousTemplate>
+                                <LoggedInTemplate>
+                                    <%-- <a runat="server" class="username" href="~/Account/Manage" title="Manage your account">--%>
+                                    <asp:LoginName runat="server" CssClass="username" />
+                                    </a>
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                                </LoggedInTemplate>
+                            </asp:LoginView>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <%-- Contenido--%>
+        <div style="margin-left: 10px; margin-right: 10px">
+            <asp:ContentPlaceHolder runat="server" ID="ContentPlaceHolder">
+            </asp:ContentPlaceHolder>
+        </div>
+        <%-- Pie de página--%>
+        <hr />
+    </form>
+</body>
+</html>

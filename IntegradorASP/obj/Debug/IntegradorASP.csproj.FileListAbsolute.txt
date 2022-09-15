@@ -1,0 +1,273 @@
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Entidades.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Negocio.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Datos.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Entidades.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Negocio.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Datos.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\bin\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\bin\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Antlr3.Runtime.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.Core.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\EntityFramework.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Newtonsoft.Json.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Net.Http.Extensions.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Net.Http.Primitives.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Web.Optimization.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Web.Providers.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\WebGrease.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Mono.Math.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.Core.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\EntityFramework.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Newtonsoft.Json.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Net.Http.Extensions.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Net.Http.Primitives.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Web.Optimization.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\System.Web.Providers.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\bin\Mono.Math.xml
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\obj\Debug\IntegradorASP.csproj.App.config
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Antlr3.Runtime.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.Core.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\EntityFramework.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Newtonsoft.Json.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Net.Http.Extensions.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Net.Http.Primitives.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Web.Optimization.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Web.Providers.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\WebGrease.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Mono.Math.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.Core.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\EntityFramework.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Newtonsoft.Json.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Net.Http.Extensions.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Net.Http.Primitives.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Web.Optimization.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\System.Web.Providers.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\bin\Mono.Math.xml
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\obj\Debug\IntegradorASP.csproj.App.config
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\IntegradorASP.dll.config
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\IntegradorASP.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\IntegradorASP.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Antlr3.Runtime.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.AspNet.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.Core.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OAuth.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OpenId.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\EntityFramework.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\EntityFramework.SqlServer.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Microsoft.Web.Infrastructure.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Negocio.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Newtonsoft.Json.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Net.Http.Extensions.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Net.Http.Primitives.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Web.Optimization.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Web.Providers.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\WebGrease.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Datos.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Mono.Math.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Negocio.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Antlr3.Runtime.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.AspNet.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.Core.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OAuth.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OpenId.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\EntityFramework.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\EntityFramework.SqlServer.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Newtonsoft.Json.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Net.Http.Extensions.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Net.Http.Primitives.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Web.Optimization.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\System.Web.Providers.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Datos.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\bin\Mono.Math.xml
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\obj\Debug\IntegradorASP.csproj.App.config
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Antlr3.Runtime.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.Core.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Entidades.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Negocio.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Net.Http.Extensions.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Net.Http.Primitives.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Web.Optimization.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Web.Providers.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\WebGrease.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Datos.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Mono.Math.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Entidades.pdb
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Negocio.pdb
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.Core.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\EntityFramework.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Net.Http.Extensions.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Net.Http.Primitives.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Web.Optimization.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\System.Web.Providers.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Datos.pdb
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\bin\Mono.Math.xml
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\obj\Debug\IntegradorASP.csproj.App.config
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\obj\Debug\IntegradorASP.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\obj\Debug\IntegradorASP.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\obj\Debug\IntegradorASP.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Gabriel\Desktop\Integrador\IntegradorASP\obj\Debug\IntegradorASP.pdb

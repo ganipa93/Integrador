@@ -1,0 +1,67 @@
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+D:\IntegradorASPv3\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+D:\IntegradorASPv3\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+D:\IntegradorASPv3\IntegradorASP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\IntegradorASPv3\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+D:\IntegradorASPv3\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+D:\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+D:\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+D:\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+D:\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\bin\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\bin\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\obj\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF8\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Entidades\obj\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Entidades\bin\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Entidades\bin\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Entidades\obj\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gabriel\Desktop\Integrador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gabriel\Desktop\Integrador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\Desktop\Integrador\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Integrador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Integrador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gabriel\Desktop\Integrador\Entidades\obj\Debug\Entidades.pdb

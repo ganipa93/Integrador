@@ -1,0 +1,106 @@
+D:\IntegreadorASP\Negocio\bin\Debug\Negocio.dll
+D:\IntegreadorASP\Negocio\bin\Debug\Negocio.pdb
+D:\IntegreadorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\IntegreadorASP\Negocio\obj\Debug\Negocio.dll
+D:\IntegreadorASP\Negocio\obj\Debug\Negocio.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Negocio.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Negocio.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Datos.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Datos.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\obj\Debug\Negocio.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Datos.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Datos.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.dll
+C:\Users\educacionit\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF4_1088_3\IntegradorASPF4_1088_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF5_1089_1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF8\Negocio\obj\Debug\Negocio.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\bin\Debug\Negocio.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\bin\Debug\Negocio.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\bin\Debug\Datos.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\bin\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\bin\Debug\Datos.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\bin\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\obj\Debug\Negocio.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase13\IntegradorASPF13\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gabriel\Desktop\Integrador\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gabriel\Desktop\Integrador\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gabriel\Desktop\Integrador\Negocio\bin\Debug\Datos.dll
+C:\Users\Gabriel\Desktop\Integrador\Negocio\bin\Debug\Entidades.dll
+C:\Users\Gabriel\Desktop\Integrador\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gabriel\Desktop\Integrador\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\Desktop\Integrador\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Integrador\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Integrador\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Integrador\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gabriel\Desktop\Integrador\Negocio\obj\Debug\Negocio.pdb

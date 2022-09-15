@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF29CE47-B223-478D-89A6-0C232D9359ED}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IntegradorASP</RootNamespace>
+    <AssemblyName>IntegradorASP</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <WebGreaseLibPath>..\packages\WebGrease.1.5.2\lib</WebGreaseLibPath>
+    <UseGlobalApplicationHostFile />
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.AspNet">
+      <HintPath>..\packages\DotNetOpenAuth.AspNet.4.3.4.13329\lib\net45-full\DotNetOpenAuth.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.Core">
+      <HintPath>..\packages\DotNetOpenAuth.Core.4.3.4.13329\lib\net45-full\DotNetOpenAuth.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth">
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Core.4.3.4.13329\lib\net45-full\DotNetOpenAuth.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth.Consumer">
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Consumer.4.3.4.13329\lib\net45-full\DotNetOpenAuth.OAuth.Consumer.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId">
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.Core.4.3.4.13329\lib\net45-full\DotNetOpenAuth.OpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId.RelyingParty">
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.RelyingParty.4.3.4.13329\lib\net45-full\DotNetOpenAuth.OpenId.RelyingParty.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Membership.OpenAuth">
+      <HintPath>..\packages\Microsoft.AspNet.Membership.OpenAuth.2.0.1\lib\net45\Microsoft.AspNet.Membership.OpenAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Extensions">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\net45\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\net45\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Providers">
+      <HintPath>..\packages\Microsoft.AspNet.Providers.Core.2.0.0\lib\net40\System.Web.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebGrease">
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Manage.aspx" />
+    <Content Include="Account\OpenAuthProviders.ascx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="Account\RegisterExternalLogin.aspx" />
+    <Content Include="Administracion\Default.aspx" />
+    <Content Include="Ayuda.aspx" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Detalle.aspx" />
+    <Content Include="Error.aspx" />
+    <Content Include="Error.html" />
+    <Content Include="Estado.aspx" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Administracion\Detalle.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Imagenes\1.jpg" />
+    <Content Include="Imagenes\10.jpg" />
+    <Content Include="Imagenes\11.jpg" />
+    <Content Include="Imagenes\12.jpg" />
+    <Content Include="Imagenes\13.jpg" />
+    <Content Include="Imagenes\14.jpg" />
+    <Content Include="Imagenes\15.jpg" />
+    <Content Include="Imagenes\16.jpg" />
+    <Content Include="Imagenes\17.jpg" />
+    <Content Include="Imagenes\18.jpg" />
+    <Content Include="Imagenes\19.jpg" />
+    <Content Include="Imagenes\2.jpg" />
+    <Content Include="Imagenes\20.jpg" />
+    <Content Include="Imagenes\21.jpg" />
+    <Content Include="Imagenes\22.jpg" />
+    <Content Include="Imagenes\23.jpg" />
+    <Content Include="Imagenes\24.jpg" />
+    <Content Include="Imagenes\25.jpg" />
+    <Content Include="Imagenes\26.jpg" />
+    <Content Include="Imagenes\27.jpg" />
+    <Content Include="Imagenes\28.jpg" />
+    <Content Include="Imagenes\29.jpg" />
+    <Content Include="Imagenes\3.jpg" />
+    <Content Include="Imagenes\30.jpg" />
+    <Content Include="Imagenes\31.jpg" />
+    <Content Include="Imagenes\32.jpg" />
+    <Content Include="Imagenes\33.jpg" />
+    <Content Include="Imagenes\34.jpg" />
+    <Content Include="Imagenes\35.jpg" />
+    <Content Include="Imagenes\36.jpg" />
+    <Content Include="Imagenes\37.jpg" />
+    <Content Include="Imagenes\38.jpg" />
+    <Content Include="Imagenes\39.jpg" />
+    <Content Include="Imagenes\4.jpg" />
+    <Content Include="Imagenes\40.jpg" />
+    <Content Include="Imagenes\41.jpg" />
+    <Content Include="Imagenes\42.jpg" />
+    <Content Include="Imagenes\43.jpg" />
+    <Content Include="Imagenes\44.jpg" />
+    <Content Include="Imagenes\45.jpg" />
+    <Content Include="Imagenes\46.jpg" />
+    <Content Include="Imagenes\47.jpg" />
+    <Content Include="Imagenes\48.jpg" />
+    <Content Include="Imagenes\49.jpg" />
+    <Content Include="Imagenes\5.jpg" />
+    <Content Include="Imagenes\50.jpg" />
+    <Content Include="Imagenes\51.jpg" />
+    <Content Include="Imagenes\52.jpg" />
+    <Content Include="Imagenes\53.jpg" />
+    <Content Include="Imagenes\54.jpg" />
+    <Content Include="Imagenes\55.jpg" />
+    <Content Include="Imagenes\56.jpg" />
+    <Content Include="Imagenes\57.jpg" />
+    <Content Include="Imagenes\58.jpg" />
+    <Content Include="Imagenes\59.jpg" />
+    <Content Include="Imagenes\6.jpg" />
+    <Content Include="Imagenes\60.jpg" />
+    <Content Include="Imagenes\61.jpg" />
+    <Content Include="Imagenes\62.jpg" />
+    <Content Include="Imagenes\63.jpg" />
+    <Content Include="Imagenes\64.jpg" />
+    <Content Include="Imagenes\65.jpg" />
+    <Content Include="Imagenes\66.jpg" />
+    <Content Include="Imagenes\67.jpg" />
+    <Content Include="Imagenes\68.jpg" />
+    <Content Include="Imagenes\69.jpg" />
+    <Content Include="Imagenes\7.jpg" />
+    <Content Include="Imagenes\70.jpg" />
+    <Content Include="Imagenes\71.jpg" />
+    <Content Include="Imagenes\72.jpg" />
+    <Content Include="Imagenes\73.jpg" />
+    <Content Include="Imagenes\74.jpg" />
+    <Content Include="Imagenes\75.jpg" />
+    <Content Include="Imagenes\76.jpg" />
+    <Content Include="Imagenes\77.jpg" />
+    <Content Include="Imagenes\8.jpg" />
+    <Content Include="Imagenes\9.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn10_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn11_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn12_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn13_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn14_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn15_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn16_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn17_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn18_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn19_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn1_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn20_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn21_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn22_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn23_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn24_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn25_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn26_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn27_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn28_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn29_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn2_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn30_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn31_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn32_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn33_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn34_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn35_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn36_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn37_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn38_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn39_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn3_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn40_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn41_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn42_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn43_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn44_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn45_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn46_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn47_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn48_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn49_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn4_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn50_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn51_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn52_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn53_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn54_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn55_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn56_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn57_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn58_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn59_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn5_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn60_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn61_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn62_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn63_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn64_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn65_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn66_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn67_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn68_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn69_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn6_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn70_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn71_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn72_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn73_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn74_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn75_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn76_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn77_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn7_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn8_100x100.jpg" />
+    <Content Include="Imagenes\Thumbnails\tn9_100x100.jpg" />
+    <Content Include="packages.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Imagenes\Thumbnails\Thumbs.db" />
+    <Content Include="Account\Web.config" />
+    <None Include="Scripts\jquery-1.9.0.intellisense.js" />
+    <Content Include="PaginaDestino.aspx" />
+    <Content Include="PaginaOrigen.aspx" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.9.0.js" />
+    <Content Include="Scripts\jquery-1.9.0.min.js" />
+    <Content Include="Scripts\npm.js" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config" />
+    <Content Include="Scripts\jquery-1.9.0.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Manage.aspx.cs">
+      <DependentUpon>Manage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Manage.aspx.designer.cs">
+      <DependentUpon>Manage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\OpenAuthProviders.ascx.cs">
+      <DependentUpon>OpenAuthProviders.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\OpenAuthProviders.ascx.designer.cs">
+      <DependentUpon>OpenAuthProviders.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\RegisterExternalLogin.aspx.cs">
+      <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\RegisterExternalLogin.aspx.designer.cs">
+      <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\AuthConfig.cs" />
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Ayuda.aspx.cs">
+      <DependentUpon>Ayuda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ayuda.aspx.designer.cs">
+      <DependentUpon>Ayuda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle.aspx.cs">
+      <DependentUpon>Detalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Detalle.aspx.designer.cs">
+      <DependentUpon>Detalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Estado.aspx.cs">
+      <DependentUpon>Estado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Estado.aspx.designer.cs">
+      <DependentUpon>Estado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Detalle.aspx.cs">
+      <DependentUpon>Detalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\Detalle.aspx.designer.cs">
+      <DependentUpon>Detalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaDestino.aspx.cs">
+      <DependentUpon>PaginaDestino.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaDestino.aspx.designer.cs">
+      <DependentUpon>PaginaDestino.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaOrigen.aspx.cs">
+      <DependentUpon>PaginaOrigen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaOrigen.aspx.designer.cs">
+      <DependentUpon>PaginaOrigen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+    <Content Include="Site.Mobile.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{5da2e34e-e6b3-4156-8477-732760d04770}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{f4fdf5cd-2d8b-4a46-8727-c1649d1748ca}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>42090</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:42090/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
